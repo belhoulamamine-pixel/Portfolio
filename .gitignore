@@ -1,0 +1,10 @@
+# Exclude PDF files
+*.pdf
+
+# Common files to ignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+
